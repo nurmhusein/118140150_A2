@@ -1,59 +1,56 @@
-body
-{
-    background-color: white;
+body {
+  background-image: url(image/bg.jpg);
 }
 
-.container
-{
-    max-width: 784px;
-    margin: 20px auto;
-    background-color: white;
-    padding: 15px;
-    overflow: hidden;
+body header {
+  height: 80px;
+  background-color: #AD7622;
 }
 
-header
-{
-
-	height: 200px;
-    background-image: url(coke.jpg);
-    background-size: cover; 
-    background-position: 0px;
-
+body nav {
+  a: hover;
+  a-color: #22AD76;
 }
 
-.kotak
-{
-    border: 1px solid cornflowerblue;
-
+body nav a {
+  padding: 10px;
+  color: #CCCC99;
 }
 
-.nav
-{
-    width: 200px;
-    margin-right: 10px;
-    float: left;
-   }
-
-   .nav a:hover {
-   	color: red;
-   }
-
-   h1:hover {
-   	color: cornflowerblue;
-   }
-
-.article
-{
-    width: 584px;
-    margin-right: 10px;
-    float: left;
+body section, body article, body footer {
+  text-align: center;
 }
 
-footer {
-	width : 784px;
-	height: 100%;
-	background-color: cornflowerblue;
-	
-	text-align: center;
-} 
+body section img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+body .tabel {
+  max-width: 600px;
+  margin: 3em auto;
+}
+
+body footer {
+  padding: 3px;
+  height: 40px;
+  background-color: #AD7622;
+}
+
+body .gambar {
+  padding: 10px;
+}
+
+body .gambar img {
+  width: 200px;
+  height: 200px;
+  border: 4px solid #2F4F4F;
+  padding: 10px;
+}
+
+body .gambar img:hover {
+  -webkit-box-shadow: 0 0 9px 4px white;
+          box-shadow: 0 0 9px 4px white;
+}
+/*# sourceMappingURL=style.css.map */

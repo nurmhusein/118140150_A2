@@ -1,0 +1,58 @@
+
+body{
+
+    background-image: url(image/bg.jpg);
+    header {
+        height: 80px;
+        background-color: #AD7622;
+        
+    }
+    
+  
+    nav{
+        a{
+        
+            padding: 10px;
+           color: #CCCC99;
+        }
+        a: hover {
+            color: #22AD76;
+        }
+    }
+    
+    section, article, footer{
+        text-align: center;
+    }
+    section {
+      img{
+          width: 200px;
+          height: 200px;
+          border-radius: 50%;
+      }
+    }
+
+    .tabel{
+        max-width: 600px;
+        margin: 3em auto;
+    }
+    footer{ 
+        padding: 3px;
+        height: 40px;
+        background-color: #AD7622 ;
+    }
+
+    .gambar{
+        padding: 10px;
+            img {
+                width: 200px;
+                height: 200px;
+                border: 4px solid #2F4F4F;
+                padding: 10px;
+              }
+
+              img:hover {
+                  box-shadow: 0 0 9px 4px white;
+              }
+                  
+    }
+}
