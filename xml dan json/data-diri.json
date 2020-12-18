@@ -1,0 +1,37 @@
+{
+"datadiri":{
+    "nama":{
+        "saya":{
+            "awal":"Nur",
+            "tengah": "Muhammad",
+            "akhir":"Husein"
+        },
+    
+        "saudara":{
+            "awal":"Aulia",
+            "tengah":"Sofia",
+            "akhir":"Latifa"
+        },
+        "ayah":{
+            "awal":"Cholif"
+        },
+        "ibu":{
+            "awal":"Shanti"
+        }
+        },
+    "hobby":{
+        "satu":"Diskusi",
+        "dua":"Membaca",
+        "tiga":"Gaming"
+    },
+    "jenisKelamin":"Pria",
+    "alamat":{
+        "desa":"Pasir Gintung",
+        "kecamatan":"Tanjung Karang Pusat",
+        "kota":"bandar lampunng"
+    },
+    "sosialMedia":{
+        "instagram":"nurmhusein",
+        "linkedin":"nurmhusein"
+    }
+}

@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<dataDiri>
+    <nama>
+    <saya>
+        <awal>Nur</awal>
+        <tengah>Muhammad</tengah>
+        <akhir>Husein<akhir/>
+    <saya>
+    <saudara>
+        <awal>Aulia</awal>
+        <tengah>Sofia</tengah>
+        <akhir>Latifa<akhir/>
+    </saudara>
+     <Ayah>
+        <awal>Cholif</awal>
+    </Ayah>
+    <ibu>
+        <awal>Shanti</awal>
+    </ibu>
+
+    </nama>
+    <hobby>
+         <satu>Diskusi</satu>
+         <dua>Membaca</dua>
+          <tiga>Gaming</tiga>
+    </hobby>
+
+    <jenisKelamin>Pria</jenisKelamin>
+
+    <alamat>
+        <desa>Pasir Gintung</desa>
+        <kecamatan>Tanjung Karang Pusat</kecamatan>
+        <kota>Bandar Lampung</kota>
+    </alamat>
+
+    <sosialMedia>
+        <instagram>nurmhusein</instagram>
+        <linkdin>nurmhusein</linkedin>
+    </sosialMedia>
+</dataDiri>
